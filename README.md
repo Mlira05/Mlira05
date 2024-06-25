@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, I'm Lira! Welcome to my GitHub👋
 
-<!--
-**Mlira05/Mlira05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium.com/@mliradacosta&logoColor=white)](https://medium.com/@mliradacosta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin.com/in/lirapro/&logoColor=white)](https://www.linkedin.com/in/lirapro/)
 
-Here are some ideas to get you started:
+![Lira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mlira05&show_icons=true&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mlira05a&hide_progress=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Tech Stacks ⚙️
+
+<div style="display: inline_block">
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img align="center" alt="r" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+</div><br/>
+
+Growing one step at a time 🙏
