@@ -1,9 +1,19 @@
-## Hi there, I'm Lira! Welcome to my GitHub👋
+# Hello World, I'm Lira! Welcome to my GitHub👋
 
+## About Me
+I'm a 28 y/o student of System Analysis and Development and a future Data Scientist!🚀
+I fell in love with data when I was engaged with ***Harvard's Introduction to Computer Science - CS50***,
+And since then, I'm determined to complete **Alura**'s courses in the [Artificial Inteligence TechGuide.](https://techguide.sh/pt-BR/path/inteligencia-artificial/)🤓
+If you want to know more about me, take a look at my repositories or check the next section👇
+
+## Contact Me
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mliradacosta@outlook.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium.com/@mliradacosta&logoColor=white)](https://medium.com/@mliradacosta)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin.com/in/lirapro/&logoColor=white)](https://www.linkedin.com/in/lirapro/)
 <br/>
 
+
+## My Stats
 ![Lira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mlira05&show_icons=true&theme=radical) 
 <br/>
 <br/>
@@ -20,4 +30,5 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
 <br/>
-Growing one step at a time 🙏
+
+*I'll make sure to keep growing one step at a time.* 🙏
