@@ -1,7 +1,7 @@
 # Hello World, I'm Lira! Welcome to my GitHub👋
 
 ## About Me
-I'm a 28 y/o student of System Analysis and Development and a future Data Scientist!🚀 <br/>
+I'm a student of System Analysis and Development graduation and a future Data Scientist!🚀 <br/>
 I fell in love with data when I was engaged with ***Harvard's Introduction to Computer Science - CS50***, and since then, <br/>
 I'm determined to complete **Alura**'s courses in the [Artificial Inteligence TechGuide.](https://techguide.sh/pt-BR/path/inteligencia-artificial/)🤓<br/>
 If you want to know more about me, take a look at my repositories or check the next section👇
