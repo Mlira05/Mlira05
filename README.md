@@ -7,7 +7,7 @@ I'm determined to complete **Alura**'s courses in the [Artificial Inteligence Te
 If you want to know more about me, take a look at my repositories or check the next section👇
 
 ## Contact Me
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mliradacosta@outlook.com)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=mliradacosta@outlook.com&logoColor=white)](mliradacosta@outlook.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium.com/@mliradacosta&logoColor=white)](https://medium.com/@mliradacosta)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin.com/in/lirapro/&logoColor=white)](https://www.linkedin.com/in/lirapro/)
 <br/>
