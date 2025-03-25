@@ -1,10 +1,10 @@
-# Hello World, I'm Lira! Welcome to my GitHub👋
+# I'm Lira and this is my GitHub👋
 
 ## About Me
-I'm a student of System Analysis and Development graduation and a future Data Scientist!🚀 <br/>
+I'm a System Analyst and Developer and a future Data Professional🚀 <br/>
 I fell in love with data when I was engaged with ***Harvard's Introduction to Computer Science - CS50***, and since then, <br/>
-I'm determined to complete **Alura**'s courses in the [Artificial Inteligence TechGuide.](https://techguide.sh/pt-BR/path/inteligencia-artificial/)🤓<br/>
-If you want to know more about me, take a look at my repositories or check the next section👇
+I'm determined to become a skilled professional in the Data-Driven world.  🤓<br/>
+If you want to know more about me, take a look at my social medias in the next section👇
 
 ## Contact Me
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium.com/@mliradacosta&logoColor=white)](https://medium.com/@mliradacosta)
@@ -30,4 +30,4 @@ If you want to know more about me, take a look at my repositories or check the n
 </div><br/>
 <br/>
 
-*I'll make sure to keep growing one step at a time.* 🙏
+*Knowledge is meant to fly, not to be stuck in a cage.* 🙏
